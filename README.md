@@ -9,13 +9,14 @@
 - 🌱 Atualmente estou estudando Python / Django
 - 🔭 Estou interessado em Desenvolvimento Back-end
 - 💻 Aberto ao mercado e novas oportunidades
-- 📫 How to reach me: marcelogabrielcn@outlook.com
-- 📫 How to reach me: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
+- 📫 Email: marcelogabrielcn@outlook.com
+- 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
+- 😽 Instagram: https://www.instagram.com/marcelogabrielcn/?hl=pt-br
 
 ### Conhecimentos nas áreas de programação:
-- Python
-- HTML5
-- CSS3
+- Python 🐍
+- HTML5 🟥
+- CSS3 🟦
 
 ### Principais Skills:
 - Microsoft Office / LibreOffice
