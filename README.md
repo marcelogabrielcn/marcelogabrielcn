@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Marcelo Gabriel 👋
 
-<!--
-**marcelogabrielcn/marcelogabrielcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+<p>
+    Cursando Bacharelado em Ciência da Computação pela Universidade Paulista. Técnico em Redes de Computadores pelo SENAI.
+<p>
+    Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python
+- 🔭 I'm interested in Back-end development
+- 📫 How to reach me: marcelogabrielcn@outlook.com
+- 📫 How to reach me: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conhecimentos nas áreas de programação:
+- Python
+- HTML5
+- CSS3
+
+### Principais Skills:
+- Microsoft Office / LibreOffice
+- Windows / Linux / MacOS
+
+### GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/marcelogabrielcn">
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcelogabrielcn&show_icons=true&theme=midnight-purple"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelogabrielcn&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
