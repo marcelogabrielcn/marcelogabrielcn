@@ -11,7 +11,7 @@
 - 📫 Email: marcelogabrielcn@outlook.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
 
-### Conhecimentos nas áreas de programação:
+### Conhecimentos na área de programação:
 - Python 🐍
 - HTML5 🟥
 - CSS3 🟦
