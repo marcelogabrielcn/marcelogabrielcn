@@ -6,12 +6,10 @@
 <p>
     Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
 
-- 🌱 Atualmente estou estudando Python / Django
-- 🔭 Estou interessado em Desenvolvimento Back-end
 - 💻 Aberto ao mercado e novas oportunidades
+- 🌱 Atualmente estou estudando Python / Django
 - 📫 Email: marcelogabrielcn@outlook.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
-- 😽 Instagram: https://www.instagram.com/marcelogabrielcn/?hl=pt-br
 
 ### Conhecimentos nas áreas de programação:
 - Python 🐍
@@ -20,7 +18,7 @@
 
 ### Principais Skills:
 - Microsoft Office / LibreOffice
-- Windows / Linux / MacOS
+- Linux / MacOS / Windows
 
 ### GitHub Analytics
 
