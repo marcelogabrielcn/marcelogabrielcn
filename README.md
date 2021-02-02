@@ -6,8 +6,9 @@
 <p>
     Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
 
-- 🌱 I’m currently learning Python
-- 🔭 I'm interested in Back-end development
+- 🌱 Atualmente estou estudando Python / Django
+- 🔭 Estou interessado em Desenvolvimento Back-end
+- 💻 Aberto ao mercado e novas oportunidades
 - 📫 How to reach me: marcelogabrielcn@outlook.com
 - 📫 How to reach me: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
 
