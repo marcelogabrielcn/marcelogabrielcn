@@ -7,7 +7,7 @@
     Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
 
 - 💻 Aberto ao mercado e novas oportunidades
-- 🌱 Atualmente estou estudando Python / Django
+- 🌱 Atualmente estou estudando Java/POO/MySQL
 - 📫 Email: marcelogabrielcn@outlook.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
 
