@@ -2,6 +2,8 @@
 
 ### Sobre Mim
 <p>
+    "Conhecimento é o melhor investimento"
+<p>
     Cursando Bacharelado em Ciência da Computação pela Universidade Paulista. Técnico em Redes de Computadores pelo SENAI.
 <p>
     Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
