@@ -26,7 +26,7 @@
 
 <p align="left">
 <a href="https://github.com/marcelogabrielcn">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcelogabrielcn&show_icons=true&theme=midnight-purple"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelogabrielcn&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcelogabrielcn&show_icons=true&theme=midnight-purple"/>
 </a>
 </p>
