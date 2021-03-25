@@ -10,8 +10,14 @@
 
 - 💻 Aberto ao mercado e novas oportunidades
 - 🌱 <b>Atualmente estou estudando Java/POO/SQL</b>
-- 📫 Email: marcelogabrielcn@outlook.com
+- 📫 Email: marcelogabrielcn@outlook.com / marcelogabrielcn@gmail.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
+- 🦁 Instagram: https://www.instagram.com/marcelogabrielcn/
+
+### Atualmente estudando:
+- Java ☕
+- Programação Orientada a Objetos (Java) 
+- MySQL 🐬
 
 ### Conhecimentos na área de programação:
 - Python 🐍
