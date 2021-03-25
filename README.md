@@ -11,7 +11,7 @@
 - 💻 Aberto ao mercado e novas oportunidades
 - 📫 Email: marcelogabrielcn@outlook.com / marcelogabrielcn@gmail.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
-- 🦁 Instagram: https://www.instagram.com/marcelogabrielcn/
+- 🦁 Instagram: @marcelogabrielcn
 
 ### 🌱 Atualmente estudando:
 - Java ☕
