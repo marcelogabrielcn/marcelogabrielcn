@@ -9,12 +9,11 @@
     Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
 
 - 💻 Aberto ao mercado e novas oportunidades
-- 🌱 <b>Atualmente estou estudando Java/POO/SQL</b>
 - 📫 Email: marcelogabrielcn@outlook.com / marcelogabrielcn@gmail.com
 - 🤖 LinkedIn: https://www.linkedin.com/in/marcelo-gabriel-5554401b6/
 - 🦁 Instagram: https://www.instagram.com/marcelogabrielcn/
 
-### Atualmente estudando:
+### 🌱 Atualmente estudando:
 - Java ☕
 - Programação Orientada a Objetos (Java) 
 - MySQL 🐬
