@@ -33,7 +33,3 @@
 <a href="https://github.com/marcelogabrielcn">
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelogabrielcn&layout=compact&langs_count=8&theme=midnight-purple"/>
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcelogabrielcn&show_icons=true&theme=midnight-purple"/>
-</a>
-</p>
-<p align="left">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?marcelogabrielcn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
