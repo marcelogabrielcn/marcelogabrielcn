@@ -35,3 +35,5 @@
   <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcelogabrielcn&show_icons=true&theme=midnight-purple"/>
 </a>
 </p>
+<p align="left">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?marcelogabrielcn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
