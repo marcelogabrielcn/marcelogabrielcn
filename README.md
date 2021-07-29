@@ -10,7 +10,7 @@
 
 - 💻 Aberto ao mercado e novas oportunidades
 - 📫 Email: marcelogabrielcn@outlook.com / marcelogabrielcn@gmail.com
-- 🤖 LinkedIn: https://www.linkedin.com/in/marcelogabrielcn/ <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="marcelogabrielcn"><a class="LI-simple-link" href='https://br.linkedin.com/in/marcelogabrielcn?trk=profile-badge'>Marcelo Gabriel</a></div> 
+- 🤖 LinkedIn: https://www.linkedin.com/in/marcelogabrielcn/ 
 - 🦁 Instagram: @marcelogabrielcn
     
    
