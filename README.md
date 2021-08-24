@@ -16,14 +16,18 @@
    
 
 ### 🌱 Atualmente estudando:
-- Java ☕
-- Programação Orientada a Objetos (Java) 
-- MySQL 🐬
+- Python
+- Java (GUI)
+- C (Estrutura de Dados)
 
 ### Conhecimentos na área de programação:
 - Python 🐍
+- Java ☕
 - HTML5 🟥
 - CSS3 🟦
+- MySQL 🐬
+- Programação Orientada a Objetos (Java) 
+
 
 ### Principais Skills:
 - Microsoft Office / LibreOffice
