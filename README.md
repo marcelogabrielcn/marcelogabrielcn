@@ -12,7 +12,6 @@
 <div style="display: inline_block">
 <img align="center" alt="Marcelo-Python" height="30" width="30" src="https://icongr.am/devicon/python-original.svg?size=30&color=0640ef"> (Projetos)
 <br><img align="center" alt="Marcelo-Java" height="30" width="30" src="https://icongr.am/devicon/java-original.svg?size=30&color=0640ef"> (GUI)
-<br><img align="center" alt="Marcelo-C" height="30" width="30" src="https://icongr.am/devicon/c-original.svg?size=30&color=0640ef"> (Estrutura de Dados)
 
 </div>  
 
