@@ -4,16 +4,16 @@
 <p>
     "Conhecimento é o melhor investimento"
 <p>
-    Cursando Bacharelado em Ciência da Computação pela Universidade Paulista. Técnico em Redes de Computadores pelo SENAI.
+    Bacharel em Ciência da Computação pela Universidade Paulista. Técnico em Redes de Computadores pelo SENAI.
 <p>
-    Sempre envolvido e interessado na área de informática. <b>Buscando sempre aprender novas coisas.</b> Hábil em habilidades analíticas, comunicação, solução de problemas, liderança e apresentações. Facilidade de trabalhar em grupo, bom relacionamento em equipe, responsabilidade e pontualidade.
+    Sempre estive envolvido e interessado pela área de informática. <b>Busco sempre aprender novas coisas e desenvolver novas habilidades.</b> Curto bastante a área analitica e área de dados. Tenho facilidade em comunicação, trabalho em equipe e apresentações. Prezo por um bom cronograma de atividades e metas bem objetivas. Também me considero bem responsável e pontual. Entre em contato para nos conhecermos melhor.
 
 ### 🌱 Atualmente estudando:
 <div style="display: inline_block">
-<img align="center" alt="Marcelo-Python" height="30" width="30" src="https://icongr.am/devicon/python-original.svg?size=30&color=0640ef"> (Procedural Programming / POO)
-</div>  
+<img align="center" alt="Marcelo-Python" height="30" width="30" src="https://icongr.am/devicon/python-original.svg?size=30&color=0640ef"> (Python & Programação Orientada a Objetos)
+</div>
 
-### Conhecimentos na área de programação:
+### Conhecimentos na área de Programação e Desenvolvimento:
 <div style="display: inline_block">
 <img align="center" alt="Marcelo-Python" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=30&color=0640ef">
 <img align="center" alt="Marcelo-Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=30&color=0640ef">
