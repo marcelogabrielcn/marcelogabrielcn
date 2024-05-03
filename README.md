@@ -22,7 +22,7 @@
 <img align="center" alt="Marcelo-MySQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=0640ef">
 </div>  
 
-### GitHub Analytics
+### GitHub Analytics 
  <div>
   <a href="https://github.com/marcelogabrielcn">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogabrielcn&layout=compact&langs_count=7&theme=dracula"/>
