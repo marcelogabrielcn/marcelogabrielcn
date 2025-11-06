@@ -4,8 +4,6 @@
 <p>
     "Conhecimento é o melhor investimento"
 <p>
-    Bacharel em Ciência da Computação pela Universidade Paulista. Técnico em Redes de Computadores pelo SENAI.
-<p>
     Sempre estive envolvido e interessado pela área de informática. <b>Busco sempre aprender novas coisas e desenvolver novas habilidades.</b> Curto bastante a área analitica e área de dados. Tenho facilidade em comunicação, trabalho em equipe e apresentações. Prezo por um bom cronograma de atividades e metas bem objetivas. Também me considero bem responsável e pontual.
 
 ### 🌱 Atualmente estudando:
