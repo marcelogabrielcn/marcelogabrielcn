@@ -2,9 +2,7 @@
 
 ### Sobre Mim
 <p>
-    "Conhecimento é o melhor investimento"
-<p>
-    Sempre estive envolvido e interessado pela área de informática. <b>Busco sempre aprender novas coisas e desenvolver novas habilidades.</b> Curto bastante a área analitica e área de dados. Tenho facilidade em comunicação, trabalho em equipe e apresentações. Prezo por um bom cronograma de atividades e metas bem objetivas. Também me considero bem responsável e pontual.
+    Sempre estive envolvido e interessado pela área de tecnologia <b>Busco sempre aprender novas coisas e desenvolver novas habilidades.</b> Curto bastante a área analitica e área de dados. Tenho facilidade em comunicação, trabalho em equipe e apresentações. Prezo por um bom cronograma de atividades e metas bem objetivas. Também me considero bem responsável e pontual.
 
 ### 🌱 Atualmente estudando:
 <div style="display: inline_block">
